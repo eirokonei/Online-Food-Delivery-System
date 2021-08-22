@@ -1,0 +1,3 @@
+$sql = "INSERT INTO `users` (`UserId`, `FullName`, `UserName`, `Password`, `Role`, `Email`, `Pic`) VALUES (NULL, \'Md. Jubayer \', \'xubayer\', \'1234\', \'Customer\', \'jubayer@gmail.com\', \'Ben.jpg\')";
+
+INSERT INTO `products` (`p_id`, `name`, `price`, `categories`, `images`, `available`, `quantity`) VALUES (NULL, 'Chicken Cheese Burger', '200', 'fastfood', 'beef cheese burger.jpg', 'availabe', '100');

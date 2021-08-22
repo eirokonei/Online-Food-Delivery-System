@@ -1,0 +1,37 @@
+{
+  "userDetails": [
+
+    {
+      "FullName": "Md. Jubayer",
+      "UserName": "Xubayer",
+      "Password": "1234",
+      "Role": "Custromer",
+      "Email": "Jubayer@gmail.com"
+
+    },
+    {
+      "FullName": "Mr. X",
+      "UserName": "xxx",
+      "Password": "xxx",
+      "Role": "Custromer",
+      "Email": "xxx@gmail.com"
+
+    },
+      {
+      "FullName": "Mr. Y",
+      "UserName": "yyy",
+      "Password": "789",
+      "Role": "Manager",
+      "Email": "manager@gmail.com"
+
+    },
+      {
+      "FullName": "Mushfiqur Rahman",
+      "UserName": "mushfiqur",
+      "Password": "1234",
+      "Role": "Admin",
+      "Email": "something@gmail.com"
+
+    }
+  ]
+}
